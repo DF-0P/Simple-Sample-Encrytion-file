@@ -1,4 +1,4 @@
-dectxt = "434891Gh*00l0fkjdklvoir000"#input("What is the text to decrypt:\n>") #text to decrypt
+dectxt = input("What is the text to decrypt:\n>") #text to decrypt
 nums= {} #dictionary to store index of numbers before any letter
 for idx, i in enumerate(dectxt): #for loop to run against getting number forindex
     if i in list(f"{i}" for i in range(10)):

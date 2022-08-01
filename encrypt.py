@@ -1,4 +1,4 @@
-text = "hG19l8fkjdklvoir434" #input("what is the text to encrypt:\n>")
+text = input("what is the text to encrypt:\n>")
 
 text_2 = text[0:2] #get the first two character of the text
 rest = text[2:] #get the rest of the characters of the text

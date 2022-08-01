@@ -1,5 +1,5 @@
 # Simple-Sample-Encrytion-file
-This is a  simple encryption and decryption file to a question i came across on facebook... i found the question and decided to make the files according to the question
+This is a  simple encryption and decryption file to a question i came across on facebook... i found the question and decided to make the files according to the question. the first issue was getting the right algorithm to make the encryption file with. Second issue was to make a reverse function(decryption)
 
 
 Facebook post i saw the question at : https://www.facebook.com/groups/pythonprogrammingbeginners/permalink/1609213246095494/?app=fbl
